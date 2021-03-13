@@ -3,7 +3,7 @@
 - 🌱 I’m currently revising my Java and React knowledge and recording some of my little projects here.
 - 🌱 I’m currently learning Azure cloud fundamentals
 - 💞️ I’m looking to collaborate on cloud technology docker and Kubernetes
-- 📫 How to reach me here...
+- 📫 How to reach me.. 
 
 <!---
 DCPear/DCPear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
